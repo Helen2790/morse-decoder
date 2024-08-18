@@ -37,7 +37,18 @@ const MORSE_TABLE = {
     '-----':  '0',
 };
 
+let decTable = {
+    '-': '11',
+    '.': '10',
+    ' ': '**********',
+}
+
 function decode(expr) {
+    
+
+
+
+    
     // write your solution here
 }
 
